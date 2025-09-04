@@ -1,6 +1,6 @@
 ## 📽️ Watch the Demo Video (Live!)
 
-> 📌 Click the image below — use **Ctrl+Click** (or **Cmd+Click on Mac**) to open in a new tab.
+> 📌 `Click the image below — use **Ctrl+Click** (or **Cmd+Click on Mac**) to open in a new tab.`
 
 <a href="https://youtu.be/2Q_PwLFkYTQ">
   <img src="https://i9.ytimg.com/vi/2Q_PwLFkYTQ/sddefault.jpg?v=685e5a3d&sqp=CIy0-cIG&rs=AOn4CLAWY2I5qfS3BbWByURKQeIaSZAYDg" alt="Watch the demo video">
@@ -254,3 +254,4 @@ For examples of other MCP servers and implementation patterns, see:
 
 Pull requests are welcome! Feel free to contribute new ideas, bug fixes, or enhancements.
 If you have any qestion with this project, feel free to reach out!
+This software was protected by S.Team.
