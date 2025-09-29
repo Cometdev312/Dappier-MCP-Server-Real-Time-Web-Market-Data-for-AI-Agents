@@ -249,9 +249,6 @@ npx @modelcontextprotocol/inspector uvx dappier-mcp
 
 We welcome contributions to expand and improve the Dappier MCP Server. Whether you want to add new search capabilities, enhance existing functionality, or improve documentation, your input is valuable.
 
-For examples of other MCP servers and implementation patterns, see:
-[https://github.com/modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
-
 Pull requests are welcome! Feel free to contribute new ideas, bug fixes, or enhancements.
 If you have any qestion with this project, feel free to reach out!
 This software was protected by S.Team.
